@@ -1,0 +1,16 @@
+{
+  "name": "marc/model-demo",
+  "license": "WTFPL",
+  "authors": [
+    {
+      "name": "Marc Brillault",
+      "email": "marc@vestiairecollective.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "ModelDemo\\": "src/"
+    }
+  }
+}
